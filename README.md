@@ -8,6 +8,7 @@ My life thumbnail sketch :
 - 💬 Ask me about Web Development, Design, Cyber Security.
 - 📫 How to reach me: [VivekMalhan](https://www.linkedin.com/in/vivek-malhan-156984195/)
 - ⚡ Fun fact: I love reaching out to people via a local radio.
+- I also love reading biographies while having my cup of coffee
 
 I strongly believe that constant learning is a part of our journey,
 and if at some point one stops the process, that person is out of the
