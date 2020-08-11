@@ -22,3 +22,7 @@ with diverse intellect. For me work has always been my priority.
 Social media is a tool you can use to leverage your digital identity,
 an identity on which only you have the control. I am a product of
 digital identity and strongly believe in creating an online presence.
+
+----
+
+<img align="left" alt="VivekMalhan666's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VivekMalhan666&show_icons=true&hide_border=true" />
