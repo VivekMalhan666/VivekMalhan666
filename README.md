@@ -10,6 +10,8 @@ My life thumbnail sketch :
 - ⚡ Fun fact: I love reaching out to people via a local radio.
 - I also love reading biographies while having my cup of coffee
 
+----
+
 I strongly believe that constant learning is a part of our journey,
 and if at some point one stops the process, that person is out of the
 game. My constant learning in both horizontal and vertical dimensions
@@ -23,7 +25,3 @@ with diverse intellect. For me work has always been my priority.
 Social media is a tool you can use to leverage your digital identity,
 an identity on which only you have the control. I am a product of
 digital identity and strongly believe in creating an online presence.
-
-----
-
-<img align="left" alt="VivekMalhan666's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VivekMalhan666&show_icons=true&hide_border=true&hide=stars,prs,issues,contribs" />
