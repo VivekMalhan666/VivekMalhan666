@@ -25,4 +25,4 @@ digital identity and strongly believe in creating an online presence.
 
 ----
 
-<img align="left" alt="VivekMalhan666's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VivekMalhan666&show_icons=true&hide_border=true" />
+<img align="left" alt="VivekMalhan666's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VivekMalhan666&show_icons=true&hide_border=true&hide=stars,prs,issues,contribs" />
