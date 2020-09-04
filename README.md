@@ -1,4 +1,4 @@
-### “ In a time of drastic change it is the learners who inherit the future. The learned usually find themselves equipped to live in a world that no longer exists. ” - Eric Hoffer
+### “ Are you a one or a zero? Are you going to be a revolutionary or are you just going to sit back in ignorance and drink your Starbucks like everyone else? ” 
 
 My life thumbnail sketch :
 - 🔭 I’m currently working on enhancing my skills in Web-Development.
@@ -18,10 +18,6 @@ game. My constant learning in both horizontal and vertical dimensions
 has landed me some of the best opportunities I could have ever dreamt
 of, in the last few years.  
 
-Spending almost 2 years now in web development, I have landed myself
+Spending almost 2 years now in web development, and a year in pentesting I have landed myself
 into various opportunistic projects and platform to work with people 
 with diverse intellect. For me work has always been my priority. 
-
-Social media is a tool you can use to leverage your digital identity,
-an identity on which only you have the control. I am a product of
-digital identity and strongly believe in creating an online presence.
