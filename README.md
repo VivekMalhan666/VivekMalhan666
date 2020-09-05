@@ -1,4 +1,6 @@
-### “ Are you a one or a zero? Are you going to be a revolutionary or are you just going to sit back in ignorance and drink your Starbucks like everyone else? ” 
+### “ Are you a one or a zero? in other words, Are you going to be a revolutionary or are you just going to sit back in ignorance and drink your Starbucks like everyone else? ”  -- Me
+
+Make the change you wish to see. Make it happpen.
 
 My life thumbnail sketch :
 - 🔭 I’m currently working on enhancing my skills in Web-Development.
