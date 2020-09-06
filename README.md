@@ -23,3 +23,6 @@ of, in the last few years.
 Spending almost 2 years now in web development, and a year in pentesting I have landed myself
 into various opportunistic projects and platform to work with people 
 with diverse intellect. For me work has always been my priority. 
+
+### A word of advice for every beginner out there:
+## Be Hungry, Be Foolish
