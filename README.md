@@ -1,4 +1,4 @@
-### “ Are you a one or a zero? in other words, Are you going to be a revolutionary or are you just going to sit back in ignorance and drink your Starbucks like everyone else? ”  -- Me
+### “ Your time is limited, so don't waste it living someone else's life ”  -- Steve Jobs
 
 Make the change you wish to see. Make it happpen.
 
