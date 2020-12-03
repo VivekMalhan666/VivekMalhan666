@@ -14,11 +14,6 @@ My life thumbnail sketch :
 
 ----
 
-[![Vivek's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/vivekmalhan666)
-    
-
-
-
 I strongly believe that constant learning is a part of our journey,
 and if at some point one stops the process, that person is out of the
 game. My constant learning in both horizontal and vertical dimensions
