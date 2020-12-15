@@ -7,10 +7,9 @@ My life thumbnail sketch :
 - 🌱 I’m currently learning MEAN and MERN stack along side cyber security.
 - 📚 What do I beleive? Jack of all, Master of some.
 - 👯 I’m looking to collaborate on any idea that impresses me.
-- 💬 Ask me about Web Development, Design, Cyber Security.
+- 💬 Ask me about Web Development, Cyber Security.
 - 📫 How to reach me: [VivekMalhan](https://www.linkedin.com/in/vivek-malhan-156984195/)
 - ⚡ Fun fact: I love reaching out to people via a local radio.
-- I also love reading biographies while having my cup of coffee
 
 ----
 
