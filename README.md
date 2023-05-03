@@ -3,11 +3,11 @@
 Make the change you wish to see. Make it happpen.
 
 My life thumbnail sketch :
-- 🔭 I’m currently working on enhancing my skills in Web-Development.
-- 🌱 I’m currently learning MEAN and MERN stack along side cyber security.
+- 🔭 I’m currently working on enhancing my skills in Web & App Development.
+- 🌱 I’m currently learning MEAN and MERN stack along side cyber security and React Native.
 - 📚 What do I beleive? Jack of all, Master of some.
 - 👯 I’m looking to collaborate on any idea that impresses me.
-- 💬 Ask me about Web Development, Cyber Security.
+- 💬 Ask me about Web & App Development, Cyber Security.
 - 📫 How to reach me: [VivekMalhan](https://www.linkedin.com/in/vivek-malhan-156984195/)
 - ⚡ Fun fact: I love reaching out to people via a local radio.
 
